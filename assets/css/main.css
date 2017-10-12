@@ -1,14 +1,14 @@
 @charset 'utf-8';
 
 body {
-    background-color: #eee;
+    background-color: #ddd;
 }
 
 header {
     width: 100%;
     text-align: center;
     
-    border-top: 10px solid cornflowerblue;
+    border-top: 10px solid powderblue;
     border-bottom: 10px solid orange;
 }
 
